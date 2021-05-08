@@ -39,7 +39,6 @@ yarn dev
 O projeto sera inicido no localhost
 
 # Tecnologias Utilizadas
-- ReactJs
 - NextJs
 - Server.json
 - Rc-slider
